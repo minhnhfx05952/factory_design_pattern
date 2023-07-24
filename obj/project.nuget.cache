@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "98Xt1fmB6iySNf03GdrKD6+z5dprHrhEor2ovrpBUI9knEJAgordCmP9MjvGhlXqxERCFTmsJcdoKOOFHaqWRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minhn\\OneDrive\\Máy tính\\factory dp\\factory dp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.8\\microsoft.netcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.8\\microsoft.windowsdesktop.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.8\\microsoft.aspnetcore.app.ref.7.0.8.nupkg.sha512",
+    "C:\\Users\\minhn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.8\\microsoft.netcore.app.host.win-x64.7.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
